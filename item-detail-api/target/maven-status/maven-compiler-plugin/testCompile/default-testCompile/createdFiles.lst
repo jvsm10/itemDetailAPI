@@ -1,0 +1,7 @@
+com\mercadolibre\itemdetail\service\ItemServiceTest.class
+com\mercadolibre\itemdetail\repository\ItemRepositoryTest.class
+com\mercadolibre\itemdetail\ItemDetailApiApplicationTests.class
+com\mercadolibre\itemdetail\controller\ItemControllerTest.class
+com\mercadolibre\itemdetail\repository\SellerRepositoryTest.class
+com\mercadolibre\itemdetail\repository\ReviewRepositoryTest.class
+com\mercadolibre\itemdetail\ItemDetailApiApplicationIntegrationTest.class

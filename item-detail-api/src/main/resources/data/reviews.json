@@ -1,0 +1,51 @@
+[
+  {
+    "id": "REV001",
+    "itemId": "MLB123456789",
+    "userId": "USER001",
+    "rating": 5,
+    "comment": "Excelente smartphone! Câmera incrível e bateria dura o dia todo. Recomendo!",
+    "date": "2024-08-15"
+  },
+  {
+    "id": "REV002",
+    "itemId": "MLB123456789",
+    "userId": "USER002",
+    "rating": 4,
+    "comment": "Muito bom produto, chegou rapidamente e bem embalado. Apenas o preço que está um pouco alto.",
+    "date": "2024-08-20"
+  },
+  {
+    "id": "REV003",
+    "itemId": "MLB987654321",
+    "userId": "USER003",
+    "rating": 5,
+    "comment": "Notebook perfeito para trabalho. Rápido, silencioso e com ótima qualidade de tela.",
+    "date": "2024-08-18"
+  },
+  {
+    "id": "REV004",
+    "itemId": "MLB987654321",
+    "userId": "USER004",
+    "rating": 4,
+    "comment": "Bom custo-benefício. Atende bem às necessidades básicas de escritório.",
+    "date": "2024-08-22"
+  },
+  {
+    "id": "REV005",
+    "itemId": "MLB555666777",
+    "userId": "USER005",
+    "rating": 5,
+    "comment": "Tênis muito confortável! Uso para corrida e caminhada, excelente qualidade Nike.",
+    "date": "2024-08-25"
+  },
+  {
+    "id": "REV006",
+    "itemId": "MLB555666777",
+    "userId": "USER006",
+    "rating": 4,
+    "comment": "Produto original, chegou no prazo. Apenas achei o tamanho um pouco diferente do esperado.",
+    "date": "2024-08-27"
+  }
+]
+

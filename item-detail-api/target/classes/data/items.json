@@ -1,0 +1,36 @@
+[
+  {
+    "id": "MLB123456789",
+    "name": "Smartphone Samsung Galaxy S24 Ultra 256GB",
+    "description": "Smartphone Samsung Galaxy S24 Ultra com 256GB de armazenamento, tela de 6.8 polegadas Dynamic AMOLED 2X, câmera principal de 200MP, processador Snapdragon 8 Gen 3 e bateria de 5000mAh. Inclui S Pen integrada para máxima produtividade.",
+    "price": 4999.99,
+    "currency": "BRL",
+    "category": "Celulares e Smartphones",
+    "sellerId": "SELLER001",
+    "availableQuantity": 15,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_123456-MLB123456789-123456-F.webp"
+  },
+  {
+    "id": "MLB987654321",
+    "name": "Notebook Dell Inspiron 15 3000 Intel Core i5",
+    "description": "Notebook Dell Inspiron 15 3000 com processador Intel Core i5-1135G7, 8GB RAM DDR4, SSD 256GB, tela 15.6 polegadas Full HD, Windows 11 Home. Ideal para trabalho e estudos.",
+    "price": 2899.90,
+    "currency": "BRL",
+    "category": "Computadores e Notebooks",
+    "sellerId": "SELLER002",
+    "availableQuantity": 8,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_987654-MLB987654321-987654-F.webp"
+  },
+  {
+    "id": "MLB555666777",
+    "name": "Tênis Nike Air Max 270 Masculino",
+    "description": "Tênis Nike Air Max 270 masculino com tecnologia Air Max para máximo conforto, cabedal em mesh respirável, solado em borracha com excelente aderência. Disponível em várias cores e tamanhos.",
+    "price": 599.99,
+    "currency": "BRL",
+    "category": "Calçados, Roupas e Bolsas",
+    "sellerId": "SELLER003",
+    "availableQuantity": 25,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_555666-MLB555666777-555666-F.webp"
+  }
+]
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mercadolibre.itemdetail.controller.ItemControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.795 s - in com.mercadolibre.itemdetail.controller.ItemControllerTest

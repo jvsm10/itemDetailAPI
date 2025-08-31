@@ -1,0 +1,21 @@
+[
+  {
+    "id": "SELLER001",
+    "name": "TechStore Premium",
+    "rating": 4.8,
+    "address": "São Paulo, SP"
+  },
+  {
+    "id": "SELLER002",
+    "name": "Informática Digital",
+    "rating": 4.6,
+    "address": "Rio de Janeiro, RJ"
+  },
+  {
+    "id": "SELLER003",
+    "name": "SportShop Brasil",
+    "rating": 4.9,
+    "address": "Belo Horizonte, MG"
+  }
+]
+

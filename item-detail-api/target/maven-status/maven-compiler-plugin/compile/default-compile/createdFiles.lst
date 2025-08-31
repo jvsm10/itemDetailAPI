@@ -1,0 +1,15 @@
+com\mercadolibre\itemdetail\repository\SellerRepository$1.class
+com\mercadolibre\itemdetail\repository\ItemRepository.class
+com\mercadolibre\itemdetail\service\ItemService.class
+com\mercadolibre\itemdetail\repository\ItemRepository$1.class
+com\mercadolibre\itemdetail\repository\SellerRepository.class
+com\mercadolibre\itemdetail\model\Item.class
+com\mercadolibre\itemdetail\model\ItemDetailResponse.class
+com\mercadolibre\itemdetail\controller\ItemController.class
+com\mercadolibre\itemdetail\model\Review.class
+com\mercadolibre\itemdetail\controller\GlobalExceptionHandler.class
+com\mercadolibre\itemdetail\repository\ReviewRepository$1.class
+com\mercadolibre\itemdetail\ItemDetailApiApplication.class
+com\mercadolibre\itemdetail\controller\GlobalExceptionHandler$ErrorResponse.class
+com\mercadolibre\itemdetail\model\Seller.class
+com\mercadolibre\itemdetail\repository\ReviewRepository.class
